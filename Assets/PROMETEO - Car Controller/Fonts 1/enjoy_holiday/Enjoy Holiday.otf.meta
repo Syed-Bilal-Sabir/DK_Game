@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 47b619d35437d244284cb9098a725565
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Enjoy Holiday
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13150e30e8c3be04c8a0509817f073a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
