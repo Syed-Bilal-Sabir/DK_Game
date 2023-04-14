@@ -10,10 +10,10 @@ public class UIManager : MonoBehaviour
     public GameObject RateUsPanel;
     private void Start()
     {
-        if (FindObjectOfType<GoogleAdMobController>().interstitialAd != null)
-        {
-            FindObjectOfType<GoogleAdMobController>().ShowInterstitialAd();
-        }
+        //if (FindObjectOfType<GoogleAdMobController>().interstitialAd != null)
+        //{
+        //    FindObjectOfType<GoogleAdMobController>().ShowInterstitialAd();
+        //}
     }
     public void OnMainMenuePressed()
     {

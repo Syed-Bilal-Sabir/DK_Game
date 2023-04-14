@@ -58,7 +58,7 @@ public class HomeUi : MonoBehaviour
     {
       //  FindObjectOfType<GoogleAdMobController>().RequestAndLoadRewardedAd();
 
-        FindObjectOfType<GoogleAdMobController>().ShowRewardedAd();
+        //FindObjectOfType<GoogleAdMobController>().ShowRewardedAd();
     }
 
     public void RewardPlayer()

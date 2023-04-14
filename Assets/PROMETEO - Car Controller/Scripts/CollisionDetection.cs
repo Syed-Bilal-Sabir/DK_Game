@@ -30,9 +30,9 @@ public class CollisionDetection : MonoBehaviour
     {
         yield return new WaitForSeconds(.1f);
         gameoverPanel.SetActive(true);
-        if (FindObjectOfType<GoogleAdMobController>().interstitialAd != null &&PlayerPrefs.GetInt("RemoveAds")!=1)
-        {
-            FindObjectOfType<GoogleAdMobController>().ShowInterstitialAd();
-        }
+        //if (FindObjectOfType<GoogleAdMobController>().interstitialAd != null &&PlayerPrefs.GetInt("RemoveAds")!=1)
+        //{
+        //    FindObjectOfType<GoogleAdMobController>().ShowInterstitialAd();
+        //}
     }
 }
